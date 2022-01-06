@@ -15,5 +15,17 @@ This is the interface for the users to interact with the database, developed usi
 ### Backend
 This is the backend RESTful APIs to bridge between the frontend and the database, developed developed using Node.js with Mongoose. The server is MongoDB.
 
+## Key Features
+- [x] Authentication
+- [x] Home page
+- [x] Event CRUD
+- [x] Event CRUD on calendar (i.e. calendar event CRUD)
+- [x] Profile
+- [x] Voting & result
+- [x] Copy & share voting link
+- [x] User's statistics
+- [x] Admin Panel (including all types of data CRUD)
+
+
 ## Remarks 
 Ths original repo is private so here is the project README.
